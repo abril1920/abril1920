@@ -13,11 +13,8 @@
 <p>Sobre mi</p>
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Proyectos full-stack con Node.js y frontend moderno, consumo de APIs REST, manejo de Git con commits claros, bases de datos SQL y documentación básica orientada a buenas prácticas.
+- Con ganas de seguir creciendo como profesional y mejorar mis habilidades
 <br>
           
 <div display="" align="center">
